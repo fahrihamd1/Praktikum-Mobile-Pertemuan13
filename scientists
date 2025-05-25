@@ -1,0 +1,94 @@
+{
+    "result": [
+        {
+            "id": "1",
+            "name": "Albert Einstein",
+            "field": "Physics",
+            "birth_date": "1879-03-14",
+            "nationality": "German",
+            "contribution": "Developed the theory of relativity, one of the two pillars of modern physics.",
+            "photo_url": "https://i.pinimg.com/originals/ba/38/65/ba3865f975e6d9671bba5d62271f5398.jpg"
+        },
+        {
+            "id": "2",
+            "name": "Marie Curie",
+            "field": "Physics",
+            "birth_date": "1867-11-07",
+            "nationality": "Polish",
+            "contribution": "Pioneered research on radioactivity, discovered polonium and radium.",
+            "photo_url": "http://magnifymind.com/wp-content/uploads/2024/06/Marie-Curie-1024x683.jpeg"
+        },
+        {
+            "id": "3",
+            "name": "Isaac Newton",
+            "field": "Physics",
+            "birth_date": "1643-01-04",
+            "nationality": "English",
+            "contribution": "Formulated the laws of motion and universal gravitation.",
+            "photo_url": "https://cdn.britannica.com/08/3008-050-B3EE2D0D/Godfrey-Kneller-Isaac-Newton-portrait-1689.jpg"
+        },
+        {
+            "id": "4",
+            "name": "Rosalind Franklin",
+            "field": "Biology",
+            "birth_date": "1920-07-25",
+            "nationality": "English",
+            "contribution": "Contributed to the discovery of the DNA double helix structure.",
+            "photo_url": "https://mujeresconciencia.com/app/uploads/2014/04/rosalind-franklin.jpg"
+        },
+        {
+            "id": "5",
+            "name": "Nikola Tesla",
+            "field": "Electrical Engineering",
+            "birth_date": "1856-07-10",
+            "nationality": "Serbian",
+            "contribution": "Invented the alternating current (AC) electrical system.",
+            "photo_url": "https://assets.beartai.com/uploads/2023/02/Nikola_tesla-OCD.jpg"
+        },
+        {
+            "id": "6",
+            "name": "Ada Lovelace",
+            "field": "Mathematics",
+            "birth_date": "1815-12-10",
+            "nationality": "English",
+            "contribution": "Recognized as the first computer programmer for her work on Babbage’s Analytical Engine.",
+            "photo_url": "https://weshape.tech/wp-content/uploads/Ada-Lovelace_WST-background_1200x1200-1024x1024.jpg"
+        },
+        {
+            "id": "7",
+            "name": "Gregor Mendel",
+            "field": "Biology",
+            "birth_date": "1822-07-20",
+            "nationality": "Austrian",
+            "contribution": "Founded the science of genetics through his experiments with pea plants.",
+            "photo_url": "https://unifycosmos.com/wp-content/uploads/2024/09/1024px-Portrait_of_Gregor_Johann_Mendel_by_Daniel_J._Fairbanks-769x1024.jpg"
+        },
+        {
+            "id": "8",
+            "name": "Linus Pauling",
+            "field": "Chemistry",
+            "birth_date": "1901-02-28",
+            "nationality": "American",
+            "contribution": "Won Nobel Prizes in Chemistry and Peace, known for work on chemical bonds.",
+            "photo_url": "https://images.deepai.org/chat-style-image/c4748c0794064942a697146235a78327/output.jpg"
+        },
+        {
+            "id": "9",
+            "name": "Katherine Johnson",
+            "field": "Mathematics",
+            "birth_date": "1918-08-26",
+            "nationality": "American",
+            "contribution": "Calculated trajectories for NASA missions, including Apollo 11.",
+            "photo_url": "https://media.npr.org/assets/img/2017/03/06/johnsonnasa1971-l-03033-f89e799fca8a0bd65bf1f75ff9f32cb89b1ad2ea.jpg"
+        },
+        {
+            "id": "10",
+            "name": "Stephen Hawking",
+            "field": "Physics",
+            "birth_date": "1942-01-08",
+            "nationality": "English",
+            "contribution": "Advanced our understanding of black holes and cosmology.",
+            "photo_url": "https://cdn.shortpixel.ai/spai/q_lossy+ret_img+to_auto/cosmosmagazine.com/wp-content/uploads/2019/12/GettyImages-73570451-1440x960.jpg"
+        }
+    ]
+}
