@@ -1,12 +1,12 @@
 {
     "result": [
         {
-            "id": "id: 1",
-            "name": "Nama: Albert Einstein",
-            "field": "Bidang: Fisika",
-            "birth_date": "Tanggal Lahir: 1879-03-14",
-            "nationality": "Negara: German",
-            "contribution": "Kontribusi: Developed the theory of relativity, one of the two pillars of modern physics.",
+            "id": "1",
+            "name": "Albert Einstein",
+            "field": "Fisika",
+            "birth_date": "1879-03-14",
+            "nationality": "German",
+            "contribution": "Developed the theory of relativity, one of the two pillars of modern physics.",
             "photo_url": "https://i.pinimg.com/originals/ba/38/65/ba3865f975e6d9671bba5d62271f5398.jpg"
         },
         {
